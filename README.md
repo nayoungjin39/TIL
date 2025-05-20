@@ -4,11 +4,11 @@
 
 ##screen
 
-![Image](https://github.com/user-attachments/assets/28c72a6c-72ed-4714-8f10-618e97aeca2c)
+![Image](https://github.com/user-attachments/assets/d9ad6640-a148-4db4-983c-514184ec0c64)
 
 ##설명
 
-![Image](https://github.com/user-attachments/assets/019f93ce-4733-48ba-beb3-555cc92421a1)
+![Image](https://github.com/user-attachments/assets/4d87a185-9c53-40c9-b861-9a17fd370c15)
 
 저장, 콘텐츠 브라우저, 뷰모드, 프로젝트 추가, 블루프린트, 레벨 시퀸스 오브젝트, 플레이 플렛폼
 
@@ -25,8 +25,8 @@
 
 ##좌표계와 프랜스 폼
 
-![Image](https://github.com/user-attachments/assets/01ff36f5-4006-47e7-b360-0821fb58301f)
-![Image](https://github.com/user-attachments/assets/c09a49c7-dbec-415a-8172-221c1c3ddd82)
+![Image](https://github.com/user-attachments/assets/f9382448-9955-4825-bc26-05ad31855b86)
+![Image](https://github.com/user-attachments/assets/37e44903-bc74-4348-9223-144621a0cb86)
 
 보기와 같이 좌표계를 알려주는 기즈모를 보고 프렌스 폼에서 위치, 회전, 스케일(크기)를 조절
 또는 Q(선택), W(이동), E(회전), R(스케일)단축키를 이용해 뷰포트에서 직접 조절가능
@@ -35,6 +35,6 @@
 
 액터의 메시 파일을 더블 클릭하면
 
-![Image](https://github.com/user-attachments/assets/a9441154-abe8-455b-9cbf-a0e5c82df8fe)
+![Image](https://github.com/user-attachments/assets/1d38d124-3f96-4d61-a0de-5e08368d586a)
 
 이러한 화면이 뜨고 저 머티리얼 슬롯에 다른 머티리얼로 바꾸면 색깔과 표면, 거칠기(블루프린트를 사용)를 바꿀 수 있습니다.
